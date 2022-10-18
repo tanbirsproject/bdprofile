@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BANGLADESH PROFILE</title>
+</head>
+<body>
+    <div>
+<h1 style="text-align: center;">Lets see Bangladesh</h1>
+<p><i><b><mark>BANGLADESH:-</mark></b>
+    It is home to the world's largest river delta, which is formed by the Brahmaputra and the Ganges river. Roaming Bengal tigers in the Sundarbans, a mangrove and swampland in the delta. For the longest natural uninterrupted sea beach in Asia (Cox's Bazar beach), which is 150 km long. The Malnicherra Tea Estate, the oldest tea garden in the subcontinent. Ancient historical Panam City. Ilish fish and Muslin gauze like Jamdani</i></p>
+    </div>
+    <div>
+        <h3 style="text-align: center;">COUNTRY PROFILE</h3>
+        <img src="flag.gif" alt="BDFLAG">
+        <br>
+        <h3 style="color: rgb(18, 100, 18);">NATIONAL ANTHEM</h3>
+        <audio controls>
+            <source src="Bangladesh National Anthem.mp3" type="audio/mpeg">
+        </audio>
+<p><b><h4 style="color: rgb(18, 100,18);">Official Name:</h4></b>Gano Projatontri Bangladesh <br>
+    <b>short form:</b>BANGLADESH <br>
+    <b>int'l long form:</b>The People's Republic of Bangladesh <br>
+    <b><a href="https://www.nationsonline.org/oneworld/countrycodes.htm">ISO Country Code:</a></b>BD,BGD
+</p>
+    </div>
+    <div>
+    <h2 style="color: rgb(18, 100,18);">Time:</h2>
+    <p>Local Time = UTC +6h</p>
+</div>
+<div>
+    <p><b><a href="https://www.nationsonline.org/oneworld/international-calling-codes.htm">Country Calling Code:</a></b>+880</p>
+<br>
+<p><b>Capital City:</b><a href="https://www.nationsonline.org/oneworld/map/google_map_Dhaka.htm">DHAKA</a>(pop. 12 million, metro area)</p>
+</div>
+<div>
+    <details>
+        <summary>OTHERS CITY IN BANGLADESH</summary>
+        <ol>
+            <li><i><b>Chittagong (pop:-	5,253,000)</i></b></li>
+            <li><i><b>Khulna (pop:-950,000)</b></i></li>
+            <li><i><b>Rajshahi (pop:- 2,595,197)</b></i></li>
+            <li><i><b>Mymensing (pop:-4,68,000)</b></i></li>
+            <li><i><b>Comilla (pop:-630,000)</b></i></li>
+            <li><i><b>Barisal(pop:-516,000)</b></i></li>
+            <li><i><b>Sylhet (pop:-928,000)</b></i></li>
+        </ol>
+    </details>
+</div>
+<div>
+    <h3>Government:</h3>
+    <p>Type: Parliamentary democracy <br>
+        Independence: 26 March 1971 (from Pakistan). <br>
+        Constitution: 1972    
+    </p>
+</div>
+<div>
+    <h3>Geography:</h3>
+    <p><b>Location:</b> Southern Asia, bordering the Bay of Bengal, between India and Myanmar.
+    <br>
+    <b>Area:-</b><del>1,47,570 km   <sup>2</sup></del><a href="https://en.wikipedia.org/wiki/Bangladesh">148,460 km<sup>2</sup></a>
+    <br>
+    <h3>SEASON:</h3>
+    <select name="Climate:" id="Climate:">
+    <option value="Climate:">Season In Bangladesh</option>
+    <option value="Summer ">Summer(গ্রীষ্ম)</option>
+    <option value="Rainy">Rainy(বর্ষা)</option>
+    <option value="Autumn ">Autumn(শরৎ)</option>
+    <option value="Late autumn">Late autumn(হেমন্ত)</option>
+    <option value="Winter ">Winter(শীত)</option>
+    <option value="spring ">spring(বসন্ত)</option>
+</select>
+</p>
+</div>
+<div>
+    <h3>People:</h3>
+    <p>Nationality: Bangladeshi(s). <br>
+        Population: <a href="https://www.worldometers.info/world-population/bangladesh-population/">168,490,268((LIVE)
+        </a> <br>
+        GNI per capita PPP: <a href="https://data.worldbank.org/indicator/NY.GNP.PCAP.PP.CD?locations=BD">6,960(2021)</a>
+<br>
+Ethnic groups: Bengali 98%, tribal groups, like the Chakma, Marma, Tanchangya, Tripuri, Kuki, Khiang, Khumi, Murang, Mru, Chak, Lushei, Bawm, Bishnupriya Manipuri (Meiteis), non-Bengali Muslims. <a href="https://www.nationsonline.org/oneworld/bangladesh.htm">Source</a>
+<br>
+Religions(2021):-<a href="https://en.wikipedia.org/wiki/Freedom_of_religion_in_Bangladesh#:~:text=The%20major%20religion%20in%20Bangladesh,%2C%20and%20Animists%20(0.1%25).">Muslims(91%)/Hindu(8%)/Buddhists(0.6%)/Christians(0.3%)/Other's(0.1%)</a>
+<br>
+Languages:Bangla (official, also known as Bengali), English is widely used.
+<br>
+Literacy:<a href="https://www.thedailystar.net/youth/education/news/bangladeshs-literacy-rate-now-7466-3080701">74.66 percen</a>
+<br>
+ </p>
+</div>
+<div>
+   <P><b>Natural resources:</b>natural gas, lignite coal, limestones, ceramic, clay and glass sand, arable land, timber.
+<br>
+<b>Agriculture products:</b>rice, jackfruit, jute, tobacco, sugarcane, pulses, oilseeds, spices,
+potatoes, vegetables, bananas, mangoes, coconut, tea and wheat.
+<br>
+<b>Industries:</b>garments, jute, cotton, textile, tea, paper, newsprint, cement, fertilizer, sugar, engineering, electric cables, leather, fish.
+<br>
+<b>Currency:</b>BDT(BANGLADESHI TK)
+</P>
+</div>
+<div>
+    <h3>GOVEMENT:</h3>
+    <ul>
+        <li>Sheikh Hasina(PRIME MINISTER)</li>
+        <li>Abdul Hamid(PRESIDENT)</li>
+    </ul>
+</div>
+<div>
+    <ol><a href="http://www.parliament.gov.bd/">The Bangladesh Parliament.</a></ol>
+    <img src="pirlament.jpg" alt="Sangshad">
+    <ol><a href="https://pmo.gov.bd/">প্রধানমন্ত্রীর কার্যালয়</a></ol>
+    <img src="ima8.jpg" alt="ganabhaban">
+    <ol><a href="https://bangladesh.gov.bd/index.php">বাংলাদেশ জাতীয় তথ্য বাতায়ন</a></ol>
+</div>
+<div>
+    <h2>CONNECT WITH US:-</h2>
+   <form>
+<label for="fname">First Name</label><br>
+<input type="text" name="fname" id="fname"><br>
+<label for="lname">Last Name</label><br>
+<input type="text" name="lname" id="lname"><br>
+<label for="pswrd">Password</label><br>
+<input type="password" name="pswrd" id="pswrd"><br>
+<label for="dob">Date of Birth</label><br>
+<input type="date" name="dob" id="dob"><br>
+<label for="email">Email</label><br>
+<input type="email" name="email" id="email"><br>
+<label for="regtime">REG. Date & Time</label><br>
+<input type="datetime-local" name="regtime" id="regtime"><br>
+<label for="apclr">App BG Colour</label>
+<input type="color" name="apclr" id="apclr"><br>
+<label for="gndr">MALE</label>
+<input type="checkbox" name="gndr" id="gndr"><br>
+<label for="gndr">FEMALE</label>
+<input type="checkbox" name="gndr" id="gndr"><br>
+<label for="brtg">App Brigthness</label><br>
+<input type="range" name="brtg" id="brtg">
+<br>
+<br>
+<button>SUBMIT</button>
+
+   </form>
+</div>
+<marquee behavior="" direction="left">আমার প্রকল্প দেখার জন্য ধন্যবাদ</marquee>
+</body>
+</html>
